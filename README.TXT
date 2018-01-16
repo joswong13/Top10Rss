@@ -1,0 +1,1 @@
+This android app reads in the XML from the Apple RSS feeds. Contains a menu system to choose between a couple feeds and between top 10 or top 25 apps.Uses a custom listview adapter to display the information such as title, description, creators, release date, and the icon. Examples is shown in the screenshot folder.
